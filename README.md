@@ -28,8 +28,10 @@ Incorrect detection of Male/Females.
 
 ## Screenshots 
 
-![Screenshot](Screenshot 2021-04-27 004630.png)
-![Screenshot](LumachainProximitySensing/Screenshot 2021-04-27 004713.png)
-![Screenshot](LumachainProximitySensing/Screenshot 2021-04-27 004803.png)
+![Screenshot](\Screenshot 2021-04-27 004630.png)
+
+![Screenshot](/LumachainProximitySensing/Screenshot 2021-04-27 004713.png)
+
+![Screenshot](/Screenshot 2021-04-27 004803.png)
 
 
