@@ -29,5 +29,7 @@ Incorrect detection of Male/Females.
 ## Screenshots 
 
 <img src="/Screenshot 2021-04-27 004630.png">
+<img src="/Screenshot 2021-04-27 004713.png">
+<img src="/Screenshot 2021-04-27 004803.png">
 
 
