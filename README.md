@@ -28,6 +28,6 @@ Incorrect detection of Male/Females.
 
 ## Screenshots 
 
-![](Screenshot 2021-04-27 004630.png)
+<img src="/Screenshot 2021-04-27 004630.png">
 
 
