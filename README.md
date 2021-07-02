@@ -1,6 +1,6 @@
 # Proximity/Distance prediction
 
-This was the AI code that was designed for an assignment given by Lumachain via Dr. Vindhya ma'am from CSE dept., DSCE.
+This was the AI code that was designed for detecting men and women proximity.
 
 
 ## Features 
